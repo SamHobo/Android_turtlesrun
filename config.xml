@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "turtlesrun@ukr.net"
+    versionCode = "1"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Turtles Run For Life</name>
+
+  <description>
+      Bby turtles run to the sea. Save them from dangers on the beach.
+  </description>
+
+  <author href="" email="turtlesrun@ukr.net">
+      Hardeep Shoker
+  </author>
+<icon src="icon.png"/>
+</widget>
